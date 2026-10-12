@@ -1,1 +1,0 @@
-Inheritance is a relationship between a parent class and a child class. The child class inherits attributes and methods from the parent class and can add its own. A class uses the extends keyword to inherit.
